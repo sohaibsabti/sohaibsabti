@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohaib
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning HTML  ,JS ,CSS,React Python
+- 🌱 I’m currently learning  java , HTML  ,JS ,CSS,React Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
